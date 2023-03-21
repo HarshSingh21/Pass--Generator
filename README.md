@@ -3,4 +3,5 @@ A password generator is a software tool that creates random and complex password
 <br>
 Tech Stack :  Html, Css,Javascript 
 
+![Screenshot ](https://github.com/HarshSingh21/Pass--Generator/Main/image/screenshot.png?raw=true)
 
