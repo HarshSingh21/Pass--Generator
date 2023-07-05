@@ -8,6 +8,7 @@ const generateBtn = document.querySelector(".generate-btn");
 
 
 
+
 const characters = {
     lowercase: "abcdefghijklmnopqrstuvwxyz",
     uppercase: "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
